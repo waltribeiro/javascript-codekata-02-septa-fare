@@ -4,10 +4,26 @@ body {
   font-size: 14px;
 }
 
+.forma {
+  width=30%;
+  margin: 0 auto; 
+  width:1200px;
+}
+
+p.one {
+  width: 30%;
+  color: rgb(0, 0, 0);
+  text-align: right;
+  font-size: 20px;
+  font-weight: thin;
+}
+
 .navbar {
   width: 30%;
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(124, 122, 122);
+  border-style: solid;
+  border-width: thin;
 }
 
 .navbar a {
@@ -39,6 +55,9 @@ body {
   background-color: red;
 }
 
+.center {
+  text-align: center;
+}
 .dropdown-content {
   display: none;
   position: absolute;
