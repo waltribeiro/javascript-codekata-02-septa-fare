@@ -4,18 +4,26 @@ body {
   font-size: 14px;
 }
 
+
 .forma {
   width=30%;
   margin: 0 auto; 
   width:1200px;
 }
 
-p.one {
+.ewan {
   width: 30%;
   color: rgb(0, 0, 0);
   text-align: right;
   font-size: 20px;
   font-weight: thin;
+}
+
+.nike {
+
+    width: 30%;
+    display: inline-block;
+    background-color: aquamarine;
 }
 
 .navbar {
@@ -24,6 +32,20 @@ p.one {
   background-color: rgb(124, 122, 122);
   border-style: solid;
   border-width: thin;
+  background-color:rgb(202, 146, 146);
+  color: green;
+ }
+ 
+ .navbar hover {
+  width: 30%;
+  overflow: hidden;
+  background-color: rgb(124, 122, 122);
+  border-style: solid;
+  border-width: thin;
+  background-color:#FF0000;
+  color: green;
+ }
+
 }
 
 .navbar a {
@@ -82,4 +104,6 @@ p.one {
 
 .dropdown:hover .dropdown-content {
   display: block;
+  cursor: pointer;
+  outline: 
 }
