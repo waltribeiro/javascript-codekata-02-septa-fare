@@ -6,7 +6,7 @@ body {
 
 
 .forma {
-  width=30%;
+  width: 30%;
   margin: 0 auto; 
   width:1200px;
 }
@@ -42,11 +42,9 @@ body {
   background-color: rgb(124, 122, 122);
   border-style: solid;
   border-width: thin;
-  background-color:#FF0000;
+  background-color: #FF0000;
   color: green;
  }
-
-}
 
 .navbar a {
   float: left;
@@ -65,7 +63,7 @@ body {
 .dropdown .dropbtn {
   font-size: 16px;  
   border: none;
-  outline: none;
+  outline-color: none;
   color: white;
   padding: 14px 16px;
   background-color: inherit;
@@ -105,5 +103,5 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
   cursor: pointer;
-  outline: 
+  outline-color: none;
 }
