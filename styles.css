@@ -109,8 +109,8 @@ body {
 .fare {
 width:30%;
 background-color:rgb(97, 100, 102);
-height:200px;
-center
+height:100px;
+text-align: center;
 font-size:h1;
-color:rgb(255, 255, 255)
+color:rgb(255, 255, 255);
 }
