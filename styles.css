@@ -105,3 +105,12 @@ body {
   cursor: pointer;
   outline-color: none;
 }
+
+.fare {
+width:30%;
+background-color:rgb(97, 100, 102);
+height:200px;
+center
+font-size:h1;
+color:rgb(255, 255, 255)
+}
